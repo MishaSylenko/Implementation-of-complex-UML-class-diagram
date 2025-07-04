@@ -1,0 +1,31 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAssert_002Ecs_002Fl_003AC_0021_003FUsers_003FYuBerlinets_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F46a322d26154b982566e1817203e5452c91223f93b0e392d9c5b4806696fdc1_003FAssert_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ADictionary_002Ecs_002Fl_003AC_0021_003FUsers_003FYuBerlinets_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F387238ef9c8f8c6b1dccf4dcba4eed0e459454919b2e4b9cad11a5071789df_003FDictionary_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ADictionary_002Ecs_002Fl_003AC_0021_003FUsers_003FYuBerlinets_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F387238ef9c8f8c6b1dccf4dcba4eed0e459454919b2e4b9cad11a5071789df_003FDictionary_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AJsonConverterOfT_002EReadCore_002Ecs_002Fl_003AC_0021_003FUsers_003FYuBerlinets_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F12f6e88162cefebbe5fabab794c2e28931b8b869103c5df0e375bec264_003FJsonConverterOfT_002EReadCore_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AJsonSerializer_002ERead_002EString_002Ecs_002Fl_003AC_0021_003FUsers_003FYuBerlinets_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F766e7061eea245e8e37b6ddc2dff9c8aad662cc3932aad4aa8c131fab70fd88_003FJsonSerializer_002ERead_002EString_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AJsonSerializer_002EWrite_002EString_002Ecs_002Fl_003AC_0021_003FUsers_003FYuBerlinets_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fbd49cb1d7ce3d716547551bbff70eb2084ebe04c491a927531363631f3e46330_003FJsonSerializer_002EWrite_002EString_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AList_002Ecs_002Fl_003AC_0021_003FUsers_003FYuBerlinets_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fb7208b3f72528d22781d25fde9a55271bdf2b5aade4f03b1324579a25493cd8_003FList_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=29b448fd_002D6e1b_002D498e_002Db088_002D78b0568636cc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RemoveReviewRemovesReviewFromItem" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFolder&gt;2809D285-82B1-4FE9-9D55-DA3DDB763279/d:BYT_03.UnitTests/d:AssosiationsTests&lt;/ProjectFolder&gt;&#xD;
+    &lt;ProjectFolder&gt;1AE4B246-D8A0-45C0-AD07-A460082EA9F1/d:AssosiationsTests&lt;/ProjectFolder&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=99d2a9b2_002Debf7_002D4236_002D92b0_002D0b839073045e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RemoveReviewRemovesReviewFromItem #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFolder&gt;2809D285-82B1-4FE9-9D55-DA3DDB763279/d:BYT_03.UnitTests/d:AssosiationsTests&lt;/ProjectFolder&gt;&#xD;
+    &lt;ProjectFolder&gt;1AE4B246-D8A0-45C0-AD07-A460082EA9F1/d:AssosiationsTests&lt;/ProjectFolder&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ce6ecc6e_002D0919_002D4e64_002Db7fb_002Deb3acecb0141/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFolder&gt;2809D285-82B1-4FE9-9D55-DA3DDB763279/d:BYT_03.UnitTests&lt;/ProjectFolder&gt;&#xD;
+    &lt;Project Location="D:\Uni\5 semester\BYT\BYT_03\BYT_03.UnitTests" Presentation="&amp;lt;BYT_03.UnitTests&amp;gt;" /&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::1AE4B246-D8A0-45C0-AD07-A460082EA9F1::net8.0::OrderTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;Project Location="C:\Users\Misha\Desktop\BYT_2024\BYT_03.UnitTests" Presentation="&amp;lt;BYT_03.UnitTests&amp;gt;" /&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

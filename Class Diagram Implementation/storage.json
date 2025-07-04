@@ -1,0 +1,31 @@
+{
+  "Items": {},
+  "Orders": {},
+  "Users": {
+    "2": {
+      "HireDate": "2020-01-01",
+      "Salary": 3000,
+      "UserTypeName": "InfolineOperator",
+      "UserId": 2,
+      "Name": "John",
+      "Surname": "Doe",
+      "Phone": "123456789",
+      "Email": "john.doe@example.com",
+      "BirthDate": "1990-05-10"
+    },
+    "4": {
+      "HireDate": "2020-01-01",
+      "Salary": 3000,
+      "UserTypeName": "ServiceMan",
+      "UserId": 4,
+      "Name": "John",
+      "Surname": "Doe",
+      "Phone": "123456789",
+      "Email": "john.doe@example.com",
+      "BirthDate": "1990-05-10"
+    }
+  },
+  "WorkerTasks": {},
+  "Payments": {},
+  "Reviews": {}
+}
